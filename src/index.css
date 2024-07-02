@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+
+}
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
